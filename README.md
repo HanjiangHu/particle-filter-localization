@@ -1,6 +1,8 @@
 # Particle Filter Indoor Localization
 This is a vectorized Python implementation of particle filter for 2D laser indoor localization, as the homework1 of 16833 CMU
 
+## A short demo
+[![Video current not available](https://img.youtube.com/vi/h8rn5NSPXpk/0.jpg)](https://www.youtube.com/watch?v=h8rn5NSPXpk)
 
 ## Instruction
 The map is under `./data/map/` and robot logs are under `./data/log/`. Click [here](./docs/HW1SLAM.pdf) for detailed instuction.
